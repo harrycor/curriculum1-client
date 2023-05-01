@@ -1,0 +1,32 @@
+{
+  "icons": [
+    {
+      "src": "auto/icon_512x512.fa59201556b6353411ecc0590c697dbe.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "auto/icon_384x384.ab631f7909a9c7509de55a376dd56b53.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "auto/icon_256x256.ae2e069b0a33c7dc8d503e550057bf8e.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "auto/icon_192x192.9ab0ae57fc43a288ffa32b447cdf8a68.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "Wrestling Club Management Software",
+  "short_name": "Wrestling Curriculum",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "theme_color": "#ff7824",
+  "background_color": "#FFFFFF",
+  "description": "The only wrestling club management software specifically made to manage your wrestlers and all billing associated with your wrestling club"
+}
