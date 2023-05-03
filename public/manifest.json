@@ -1,0 +1,34 @@
+{
+  "short_name": "Wrestling Curriculum",
+  "name": "Wrestling Club Management Software",
+  "orientation": "portrait",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "description": "The only wrestling club management software specifically made to manage your wrestlers and all billing associated with your wrestling club",
+  "theme_color": "#ff7824",
+  "background_color": "#FFFFFF",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-256x256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "icon-384x384.png",
+      "type": "image/png",
+      "sizes": "384x384"
+    },
+    {
+      "src": "icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}

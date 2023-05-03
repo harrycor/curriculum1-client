@@ -291,3 +291,10 @@ export interface ICronJobLog {
   date_and_time_of_cron_job: Date;
   date_created: Date;
 }
+export interface ReactTableProps<D> {
+  data: D[];
+  columns: {
+    Header: string;
+    accessor: keyof D;
+  }[];
+}
